@@ -1,6 +1,6 @@
 # Opennity (OPNN)
 
-[![Opennity](https://www.opennity.com/white-paper/opennity-banner.jpg)](https://www.opennity.com)
+[![Opennity](opennity-banner.jpg)](https://www.opennity.com)
 
 `OPNN` is an utility (ERC20) token for [Opennity](https://www.opennity.com)'s products and services.
 
